@@ -1,0 +1,10 @@
+"employee_full_name","employee_title","employee_age","employee_tenure","manager_full_name","manager_title"
+Dodsworth Anne,Sales Representative,28,27,Buchanan Steven,Sales Manager
+Leverling Janet,Sales Representative,29,30,Fuller Andrew,"Vice President, Sales"
+Suyama Michael,Sales Representative,30,28,Buchanan Steven,Sales Manager
+King Robert,Sales Representative,34,28,Buchanan Steven,Sales Manager
+Callahan Laura,Inside Sales Coordinator,36,28,Fuller Andrew,"Vice President, Sales"
+Buchanan Steven,Sales Manager,38,28,Fuller Andrew,"Vice President, Sales"
+Fuller Andrew,"Vice President, Sales",40,30,,
+Davolio Nancy,Sales Representative,44,30,Fuller Andrew,"Vice President, Sales"
+Peacock Margaret,Sales Representative,56,29,Fuller Andrew,"Vice President, Sales"
